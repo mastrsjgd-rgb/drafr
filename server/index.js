@@ -30,7 +30,7 @@ app.use(cors({
   origin: [
     "http://localhost:3000", 
     "http://localhost:3001", 
-    "https://drafr.vercel.app",
+    "https://drafrr.vercel.app",
     "https://drafr-3.onrender.com"
   ], 
   credentials: true 
